@@ -51,4 +51,22 @@ react-native run-android or react-native run-ios
 - 个人设置，头像修改，选择图片并剪切压缩上传
 - 文章字体设置
 
-# 视频演示
+
+# 动图演示
+>图片较大，请耐心等待
+## 文章
+![](./gifs/ezgif-1-4b562a5ce6.gif) ![](./gifs/ezgif-1-d3fdd9db64.gif)
+![](./gifs/ezgif-1-79efb9df3b.gif)![](./gifs/ezgif-1-93510ad997.gif)
+![](./gifs/ezgif-1-265864b7db.gif)
+![](./gifs/ezgif-1-373bf7dc72.gif)
+
+## 视频
+![](./gifs/ezgif-1-10c59e0297.gif)
+![](./gifs/ezgif-1-9e29701c35.gif)
+## 个人中心
+![](./gifs/ezgif-1-fa7c083679.gif)
+![](./gifs/ezgif-1-1038d0b2fb.gif)
+
+# License
+
+程序可以随意使用，转载请带上链接 `https://github.com/SmallRuralDog/rn-news`
