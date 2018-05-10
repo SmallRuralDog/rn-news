@@ -1,0 +1,24 @@
+# Uncomment the next line to define a global platform for your project
+platform :ios, '9.0'
+
+target 'chinaTop' do
+  # Comment the next line if you're not using Swift and don't want to use dynamic frameworks
+  
+  #pod 'SKPhotoBrowser'
+  use_frameworks!
+  # Pods for chinaTop
+  pod 'NYTPhotoViewer',:git => 'https://github.com/merryjs/NYTPhotoViewer.git', :branch => 'master'
+
+  target 'chinaTop-tvOSTests' do
+    inherit! :search_paths
+    # Pods for testing
+    pod 'react-native-fast-image', :path => '../node_modules/react-native-fast-image'
+
+  end
+
+  target 'chinaTopTests' do
+    inherit! :search_paths
+    # Pods for testing
+  end
+
+end
